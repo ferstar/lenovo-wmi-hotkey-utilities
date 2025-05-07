@@ -6,15 +6,12 @@ This enables the mic and audio LEDs to be updated correctly.
 
 Tested on below samples.
 
-ThinkBook 13X Gen4 IMH
-
-ThinkBook 14 G6 ABP
-
-ThinkBook 16p Gen4-21J8
-
-ThinkBook 16 G8 IRL
-
-ThinkBook 16 G7+ ASP
+1. ThinkBook 13X Gen4 IMH
+2. ThinkBook 14 G6 ABP
+3. ThinkBook 16p Gen4-21J8
+4. ThinkBook 16 G8 IRL
+5. ThinkBook 14 G6+ AHP
+6. ThinkBook 16 G7+ ASP
 
 source: https://lore.kernel.org/lkml/20250222114532.4105-1-xy-jackie@139.com
 
