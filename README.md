@@ -1,5 +1,10 @@
 # Lenovo wmi hotkey utilities
 
+UPDATE: This patch has been merged in the upstream branch: https://github.com/torvalds/linux/commit/61250669eaa9fd480e0f1c3cec107924b6a06b46
+
+For those people who's kernel version >= 6.15.x, you do not need this manually patch any more.
+
+---
 Implement Lenovo utility data WMI calls needed to make LEDs work on Ideapads that support this GUID.
 
 This enables the mic and audio LEDs to be updated correctly.
